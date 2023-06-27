@@ -5,7 +5,7 @@
 */
 
 void setup() {
-  pinMode(13, OUTPUT);      // We configure the pin 13 of the Arduino board
+  pinMode(13, OUTPUT);      // We configure the pin 13 of the Arduino board.
 }
 
 void loop() {
